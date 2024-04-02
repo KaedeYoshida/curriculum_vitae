@@ -94,6 +94,5 @@ Updated on Apr 1st, 2024
 ## Teaching Contributions on Undergraduate Courses
 |                |                                                                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 | 2023 | Ophthalmologic Pharmacology ; Yoshida Gakuen Medical and Dental College, Hokkaido, Japan; 2nd year undergraduate students; 12 × 1.5 h sessions during the 1st semester                                                          |
 | 2023-2024 | Pharmacology ; Yoshida Gakuen Medical and Dental College, Hokkaido, Japan ; 10 × 1.5 h sessions during the 2nd semester                                                         |
