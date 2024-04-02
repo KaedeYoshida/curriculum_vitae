@@ -71,9 +71,8 @@ Updated on Apr 1st, 2024
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
 
 
-### Other Grants
-1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
-1. A study of large-scale reorganization of somatosensory map in the brain after peripheral sensory nerve injury. Tokyo Women's Medical University, Research Grant for Basic Medical Research, Role: PI, Period: 2014–2015, Total cost: 700,000 JPY
+### scholarship
+1. Japan Securities Scholarship Foundation: Period: 2023–2025, Total cost: 1300,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
