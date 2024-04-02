@@ -71,7 +71,7 @@ Updated on Apr 1st, 2024
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
 
 
-### scholarship
+### Scholarships
 1. Japan Securities Scholarship Foundation: Period: 2023–2025, Total cost: 1300,000 JPY
 
 ## Invited Talks
