@@ -48,6 +48,7 @@ Updated on Apr 1st, 2024
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
 ### Original Article
+1. Matsushita Y†, <ins>Yoshida K</ins>†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, Takeuchi Y*, Higuchi M, Shimojo M*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. PNAS, in press. DOI: https://doi.org/10.1073/pnas.2404877121
 
 ### Review
 
