@@ -1,4 +1,4 @@
-Updated on Apr 1st, 2024
+Updated on Dec 7th, 2024
 
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -48,7 +48,7 @@ Updated on Apr 1st, 2024
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
 ### Original Article
-1. Matsushita Y†, <ins>Yoshida K</ins>†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, Takeuchi Y*, Higuchi M, Shimojo M*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. PNAS, in press. DOI: https://doi.org/10.1073/pnas.2404877121
+1. Matsushita Y†, <ins>Yoshida K</ins>†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, Takeuchi Y*, Higuchi M, Shimojo M*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_PNAS_** 121 (50) e2404877121, Dec 2024. DOI: https://doi.org/10.1073/pnas.2404877121
 
 ### Review
 
@@ -61,17 +61,17 @@ Updated on Apr 1st, 2024
 ### Recent Abstracts (International)
 1. <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, <ins>Yoshida K</ins>, Takeuchi Y, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
-1. <ins>Yoshida K</ins>, 
+1.  <ins>Yoshida K</ins>, Chan M, Minami M, Takeuchi Y, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
+1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, 8th Taiwan-Japan Joint Symposium for Pharmaceutical Sciences. Taipei, Taiwan. Sep 1, 2023. Oral
+1.  <ins>Yoshida K</ins>, Nobuki K, Minami M, Takeuchi Y, Development of a Sonogenetic Brain Stimulation Technology, The 10th Annual Symposium of the Korean Society for Therapeutic Ultrasound. Seoul, Korea. Nov 22, 2024. Oral
 
 ### Recent Abstracts (Domestic)
 1.  <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
 1.  <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
-1.  <ins>Yoshida K</ins>, Chan M, Minami M, Takeuchi Y, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
-1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, 8th Taiwan-Japan Joint Symposium for Pharmaceutical Sciences. Taipei, Taiwan. Sep 1, 2023. Oral
 1.  <ins>Yoshida K</ins>, Xu Y, Mimura T, Chan M, Kudo N, Minami M, Takeuchi Y, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
-1.  <ins>Yoshida K</ins>, Nobuki K, Minami M, Takeuchi Y, Development of a Sonogenetic Brain Stimulation Technology, The 10th Annual Symposium of the Korean Society for Therapeutic Ultrasound. Seoul, Korea. Nov 22, 2024. Oral
+
 
 ### Scholarships
 1. Japan Securities Scholarship Foundation: Period: 2023–2025, Total cost: 1300,000 JPY
