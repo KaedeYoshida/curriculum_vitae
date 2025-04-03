@@ -8,25 +8,26 @@ Updated on Dec 7th, 2024
 | Place of Birth   | Fukui, Japan                                                                                                 |
 | Date of Birth    | 08 Jun 1998                                                                                                  |
 | Gender           | Female                                                                                                         
-| Office Address   | Department of Biopharmaceutical Sciences and Pharmacy, Faculty of Pharmaceutical Sciences, Hokkaido University, Sapporo 060-0812, Japan|
-| E-mail           | avne_dac@eis.hokudai.ac.jp                                                                                   |
+| Office Address   | Faculty of Pharmacy, Laboratory of Pharmacotherapy: 3 Chome-4-1 Kowakae, Higashiosaka, Osaka 577-8502, Japan|
+| E-mail           | s002749c@itp.kindai.ac.jp                                                                                   |
 
 ### Current Appointment
 |                     |                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------- |
-| 01 Apr 2023–present | M.S. in Pharmaceutical Science, Hokkaido University |
-| 01 Apr 2020–present | B.S. in Pharmaceutical Science, Hokkaido University |
+| Apr 2025– present | Research Fellow, Faculty of Pharmacy, Kindai University |
 
 ## 2. Education/Qualifications
 ### Degrees
 |      |                                |                                                                                                                                      |
 | ---- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025 | M.S. in Life Science | Faculty of Graduate School of Life Sciences, Hokkaido University, Hokkaido, Japan                                                            |
 | 2023 | B.S. in Pharmaceutical Science | Faculty of Pharmaceutical Sciences, Hokkaido University, Hokkaido, Japan                                                            |
 
 
 ## 3. Professional Appointments
 |           |                                                                                          |
 | --------- | ---------------------------------------------------------------------------------------- |
+| 2023 | Research Fellow (full time), Faculty of Pharmacy, Kindai University          |
 | 2023 | Part-time Lecturer, Yoshida Gakuen Medical and Dental College                                        |
 
 
