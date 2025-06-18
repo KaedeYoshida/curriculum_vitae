@@ -58,14 +58,21 @@
 ### 著書等
 1. <ins>吉田楓</ins>、原巧樹、竹内雄一、てんかん研究最前線：閉ループ制御と非侵襲的脳刺激技術による新規てんかん制御法の研究開発、***BIO Clinica*** 40 (4): 82–85, 2025.4. 北隆館
 1. Chan M†, <ins>Yoshida K†</ins>, Yang G†, Mimura T†, Li Q, Kudo N, Takeuchi Y\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, Springer Nature, London, *in press*. (Invited)
-1. 吉田楓、Michele Chan、Gangsheng Yang、工藤信樹、<ins>竹内雄一</ins>、超音波ニューロモデュレーション法の研究開発、***超音波TECHNO***, *in press*. 日本工業出版
+1. <ins>吉田楓</ins>、Michele Chan、Gangsheng Yang、工藤信樹、竹内雄一、超音波ニューロモデュレーション法の研究開発、***超音波TECHNO***, *in press*. 日本工業出版
 
 ### プレプリント（直近）
-1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
+1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, <ins>Yoshida K</ins>, Takeuchi Y, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
 
 
-### 国際学会発表（要旨）
-### 国内学会発表（直近）
+### 国際学会発表
+1. <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
+1. Xu Y, <ins>Yoshida K</ins>, Takeuchi Y, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
+1.  <ins>Yoshida K</ins>, Chan M, Minami M, Takeuchi Y, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
+1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, 8th Taiwan-Japan Joint Symposium for Pharmaceutical Sciences. Taipei, Taiwan. Sep 1, 2023. Oral
+1.  <ins>Yoshida K</ins>, Nobuki K, Minami M, Takeuchi Y, Development of a Sonogenetic Brain Stimulation Technology, The 10th Annual Symposium of the Korean Society for Therapeutic Ultrasound. Seoul, Korea. Nov 22, 2024. Oral
+
+### 国内学会発表
+
 ## 招待講演
 
 # 教育
