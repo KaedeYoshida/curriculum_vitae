@@ -65,8 +65,6 @@
 
 
 ### 国際学会発表
-1. <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
-1. Xu Y, <ins>Yoshida K</ins>, Takeuchi Y, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
 1.  <ins>Yoshida K</ins>, Chan M, Minami M, Takeuchi Y, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, 8th Taiwan-Japan Joint Symposium for Pharmaceutical Sciences. Taipei, Taiwan. Sep 1, 2023. Oral
 1.  <ins>Yoshida K</ins>, Nobuki K, Minami M, Takeuchi Y, Development of a Sonogenetic Brain Stimulation Technology, The 10th Annual Symposium of the Korean Society for Therapeutic Ultrasound. Seoul, Korea. Nov 22, 2024. Oral
