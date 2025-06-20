@@ -73,8 +73,8 @@ Updated on Apr 3rd, 2025
 1.  <ins>Yoshida K</ins>, Xu Y, Mimura T, Chan M, Kudo N, Minami M, Takeuchi Y, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, Bacterial mechano-sensitive channels effectively increase neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024, Hakata, Japan. July 24, 2024. (Abstract No. 1P-396) Poster
-1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation technology using sonogenetics, The 1st Annual Meeting of The annual meeting of The Japan Academy of Neurosonology and Embolus. Utsunomiya, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
-
+1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation technology using sonogenetics, The 1st Annual Meeting of The annual meeting of The Japan Academy of Neurosonology and Embolus. Utsunomiya, Japan. Mar 28, 2025. (Abstract No. 1S05a-3) Symposium
+1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation using a sonogenetic technology, The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. ) Symposium
 
 
 ### Scholarships
