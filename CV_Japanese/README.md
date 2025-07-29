@@ -1,4 +1,4 @@
-2025年 4月 27日現在
+2025年 7月 29日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |                  |                                                                                                              |
@@ -77,7 +77,7 @@
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, Bacterial mechano-sensitive channels effectively increase neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024, Hakata, Japan. July 24, 2024. (Abstract No. 1P-396) Poster
 1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation technology using sonogenetics, The 1st Annual Meeting of The annual meeting of The Japan Academy of Neurosonology and Embolus. Utsunomiya, Japan. Mar 28, 2025. (Abstract No. 1S05a-3) Symposium
-1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation using a sonogenetic technology, The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. ) Symposium
+1.  <ins>Yoshida K</ins>, Kudo N, Takeuchi Y, Non-invasive cell type-specific neuromodulation using a sonogenetic technology, The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
 
 ## 招待講演
 |      |                                                                                                                                           |
