@@ -9,12 +9,12 @@ Updated on Jul 29th, 2025
 | Date of Birth    | 08 Jun 1998                                                                                                  |
 | Gender           | Female                                                                                                         
 | Office Address   | Faculty of Pharmacy, Laboratory of Pharmacotherapy: 3 Chome-4-1 Kowakae, Higashiosaka, Osaka 577-8502, Japan|
-| E-mail           | s002749c@itp.kindai.ac.jp                                                                                   |
+| E-mail           | yoshidk2@uci.edu                                                                                   |
 
 ### Current Appointment
 |                     |                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------- |
-| Apr 2025– present | Research Fellow, Faculty of Pharmacy, Kindai University |
+| Oct 2025– present | Ph.D. in Biomedical Engineering | University of California, Irvine, United States|
 
 ## 2. Education/Qualifications
 ### Degrees
@@ -36,6 +36,7 @@ Updated on Jul 29th, 2025
 |              |                                             |
 | ------------ | ------------------------------------------- |
 | 2021–present | The Japan Neuroscience Society,	Member     |
+| 2025–present | Society for Neuroscience,	Member     |
 
 
 ## 5. Prizes, Awards and other Honors
