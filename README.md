@@ -3,12 +3,12 @@ Updated on Jul 29th, 2025
 ## 1. Personal details
 |                  |                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| First / Surnames | Kaede Yoshida                                                                                                |
+| First / Surnames | Kaede Yoshida/Ueda                                                                                           |
 | Nationality      | Japan                                                                                                        |
 | Place of Birth   | Fukui, Japan                                                                                                 |
 | Date of Birth    | 08 Jun 1998                                                                                                  |
 | Gender           | Female                                                                                                         
-| Office Address   | Faculty of Pharmacy, Laboratory of Pharmacotherapy: 3 Chome-4-1 Kowakae, Higashiosaka, Osaka 577-8502, Japan|
+| Office Address   | University of California, Irvine, United States |
 | E-mail           | yoshidk2@uci.edu                                                                                   |
 
 ### Current Appointment
