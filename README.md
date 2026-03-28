@@ -27,8 +27,8 @@ Updated on Mar 8th, 2026
 ## 3. Professional Appointments
 |           |                                                                                          |
 | --------- | ---------------------------------------------------------------------------------------- |
-| 2023 | Research Fellow (full time), Faculty of Pharmacy, Kindai University          |
-| 2023 | Part-time Lecturer, Yoshida Gakuen Medical and Dental College                                        |
+| 2023 | Research Fellow (full time), Faculty of Pharmacy, Kindai University, Osaka, Japan          |
+| 2023 | Part-time Lecturer, Yoshida Gakuen Medical and Dental College, Hokkaido, Japan                                        |
 
 
 ## 4. Other Appointments and Affiliations
@@ -67,7 +67,7 @@ Updated on Mar 8th, 2026
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, 8th Taiwan-Japan Joint Symposium for Pharmaceutical Sciences. Taipei, Taiwan. Sep 1, 2023. Oral
 1.  <ins>Yoshida K</ins>, Nobuki K, Minami M, Takeuchi Y, Development of a Sonogenetic Brain Stimulation Technology, The 10th Annual Symposium of the Korean Society for Therapeutic Ultrasound. Seoul, Korea. Nov 22, 2024. Oral
 
-### Recent Abstracts (Domestic)
+### Recent Abstracts (Japan)
 1.  <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
 1.  <ins>Yoshida K</ins>, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, Takeuchi Y, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1.  <ins>Yoshida K</ins>, Minami M, Takeuchi Y, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
