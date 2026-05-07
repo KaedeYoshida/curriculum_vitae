@@ -3,7 +3,7 @@ Updated on Mar 8th, 2026
 ## 1. Personal details
 |                  |                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| First / Surnames | Kaede Yoshida/Ueda                                                                                           |
+| Name | Kaede Yoshida/Ueda                                                                                           |
 | Nationality      | Japan                                                                                                        |
 | Place of Birth   | Fukui, Japan                                                                                                 |
 | Date of Birth    | 08 Jun 1998                                                                                                  |
